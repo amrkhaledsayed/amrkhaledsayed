@@ -1,4 +1,4 @@
-# Hey there, I'm [Amr Khaled](https://amrkhaled.vercel.app/) 👋
+# Hey there, I'm [Amr Khaled] 👋
 *Front-end Web Developer *
 
 <p align="center">
