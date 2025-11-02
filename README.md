@@ -10,7 +10,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amr-khaled-151788324)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrkhaled286@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrkhaledsayed)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrkhaled)
 
 </div>
 
@@ -18,18 +18,17 @@
 
 ## 🚀 About Me
 
-```javascript
-const amrKhaled = {
-    role: "Front-end Developer",
-    code: ["HTML", "CSS", "JavaScript", "TypeScript"],
-    technologies: {
-        frontEnd: ["React", "Tailwind CSS"],
-        tools: ["Git", "VS Code"]
-    },
-    email: "amrkhaled286@gmail.com",
-    currentFocus: "Building responsive and modern web applications"
-};
-```
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 👨‍💻 Front-end Developer
+
+- 🔭 Building responsive web applications
+- 🌱 Learning **Advanced React & TypeScript**
+- 💬 Ask me about **HTML, CSS, Tailwind, React**
+- 📫 Reach me: **amrkhaled286@gmail.com**
+- ⚡ Fun fact: **I debug with console.log() 😄**
+
+<br clear="right"/>
 
 <br/>
 
@@ -54,9 +53,9 @@ const amrKhaled = {
 
 ```typescript
 const currentProjects = {
-    learning: "Advanced Next.js patterns and TypeScript",
+    learning: "Advanced React patterns and TypeScript",
     building: "Responsive web applications",
-    goal: "Master modern full stack"
+    goal: "Master modern front-end development"
 };
 ```
 
