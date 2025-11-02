@@ -28,7 +28,7 @@ I specialize in modern web technologies and love creating user-friendly interfac
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrkhaled&layout=compact&theme=react" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amrkhaled&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </div>
 
 ## 🔗 Connect with Me
