@@ -21,12 +21,10 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 👨‍💻 Front-end Developer
+<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-- 🔭 Building responsive web applications
-- 🌱 Learning **Advanced React & TypeScript**
-- 💬 Ask me about **HTML, CSS, Tailwind, React**
-- 📫 Reach me: **amrkhaled286@gmail.com**
-- ⚡ Fun fact: **I debug with console.log() 😄**
+I am a Software Engineer skilled in React,TypeScript,C++ and more.
+I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
 
 <br clear="right"/>
 
@@ -43,11 +41,19 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff)
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 <br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefdergham&layout=compact&theme=dark" alt="Top Languages"/>
+</div>
 
 ## 💼 What I'm Working On
 
