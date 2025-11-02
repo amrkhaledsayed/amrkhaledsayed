@@ -58,16 +58,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=⚙️+Learning:+Advanced+React+Patterns+%26+TypeScript;💻+Building:+Responsive+Web+Applications;🎯+Goal:+Master+Modern+Full+Stack+Development" alt="Typing SVG" />
 </div>
 
----
-
-## 📊 GitHub Stats
-
+## 🎮 Fun Zone
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrkhaled&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61dafb&icon_color=61dafb&text_color=ffffff" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrkhaled&theme=react&hide_border=true&background=0D1117&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" height="160px"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="fun gif"/>
+  <p>When I'm not coding... I'm probably exploring new techs, gaming 🎮, or sketching ideas for my next project ✨</p>
 </div>
-
----
 
 ## 🌍 Contribution Graph
 
