@@ -1,17 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Amr+Khaled;Front-end+Developer;Building+Beautiful+Interfaces" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrkhaled&style=for-the-badge&color=61dafb" alt="Profile Views"/>
-</p>
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amr-khaled-151788324)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrkhaled286@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrkhaled)
-
+https://komarev.com/ghpvc/?username=amrkhaled&style=for-the-badge&color=61dafb
 </div>
 
 <br/>
