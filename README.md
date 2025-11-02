@@ -1,5 +1,5 @@
 # Hey there, I'm [Amr Khaled](https://amrkhaled.vercel.app/) 👋
-**Front-end Web Developer *
+*Front-end Web Developer *
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amrkhaled&style=for-the-badge" alt="Profile Views"/>
