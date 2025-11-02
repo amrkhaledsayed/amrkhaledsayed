@@ -54,9 +54,9 @@ const amrKhaled = {
 
 ```typescript
 const currentProjects = {
-    learning: "Advanced React patterns and TypeScript",
+    learning: "Advanced Next.js patterns and TypeScript",
     building: "Responsive web applications",
-    goal: "Master modern front-end development"
+    goal: "Master modern full stack"
 };
 ```
 
