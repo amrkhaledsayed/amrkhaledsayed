@@ -1,10 +1,9 @@
-<!-- Header Animated -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=120&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=120&section=header&text=Welcome%20to%20Amr's%20World!&fontSize=30&fontColor=ffffff&fontAlignY=35" width="100%"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Amr+Khaled;Front-end+Developer;Building+Beautiful+Interfaces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Amr+Khaled;Front-end+Developer+%F0%9F%92%BB;Building+Beautiful+%26+Modern+Web+Experiences+🚀;Welcome+to+my+GitHub+Galaxy+🌌" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -15,25 +14,25 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amr-khaled-151788324)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrkhaled286@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrkhaled)
+  [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrkhaled)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-💡 Passionate **Front-End Developer** specializing in **React, TypeScript, and modern UI frameworks.**  
-🎨 I love transforming ideas into clean, responsive, and beautiful web experiences.  
-🚀 Constantly learning, improving, and contributing to impactful projects.  
+💡 **Front-End Developer** skilled in **React**, **TypeScript**, and modern UI tools.  
+🎯 I craft **fast, dynamic**, and **responsive** interfaces.  
+🔥 Passionate about learning, creating, and delivering high-quality user experiences.
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
 <div align="center">
   
@@ -47,12 +46,16 @@
 
 </div>
 
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
 ---
 
-## 💼 What I'm Working On
+## 🚀 What I'm Working On
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=🚀+Learning:+Advanced+React+Patterns+%26+TypeScript;💻+Building:+Responsive+Web+Applications;🎯+Goal:+Master+Modern+Full+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=⚙️+Learning:+Advanced+React+Patterns+%26+TypeScript;💻+Building:+Responsive+Web+Applications;🎯+Goal:+Master+Modern+Full+Stack+Development" alt="Typing SVG" />
 </div>
 
 ---
@@ -66,7 +69,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## 🌍 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrkhaled&custom_title=Contribution%20Graph&bg_color=0D1117&color=61dafb&line=61dafb&point=61dafb&area_color=61dafb&area=true&hide_border=true" alt="Contribution Graph" />
@@ -74,17 +77,14 @@
 
 ---
 
-## 🧠 Fun Quote
+## 💫 Quote
 
 <div align="center">
-  
-> 💡 *"Code is like humor. When you have to explain it, it's bad."*  
-> — **Cory House**
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22;—+Cory+House" alt="Quote Animation" />
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=100&section=footer&animation=twinkling" width="100%"/>
 </p>
