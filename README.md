@@ -64,13 +64,7 @@
   <p>When I'm not coding... I'm probably exploring new techs, gaming 🎮, or sketching ideas for my next project ✨</p>
 </div>
 
-## 🌍 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrkhaled&custom_title=Contribution%20Graph&bg_color=0D1117&color=61dafb&line=61dafb&point=61dafb&area_color=61dafb&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
 
 ## 💫 Quote
 
